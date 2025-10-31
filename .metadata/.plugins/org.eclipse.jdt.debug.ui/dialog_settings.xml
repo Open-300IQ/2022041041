@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0" value="93"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="746"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="83"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=sbb/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mysite.sbb{HelloLombok.java[HelloLombok&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=sbb/C:\/Users\/jpg10\/.gradle\/caches\/modules-2\/files-2.1\/org.projectlombok\/lombok\/1.18.40\/398c6d2d7c42c96b65e78d2ddc9be0058c163453\/lombok-1.18.40.jar=/gradle_used_by_scope=/=/&amp;lt;lombok.launch(Main.class[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=sbb/C:\/Users\/jpg10\/.gradle\/caches\/modules-2\/files-2.1\/org.springframework.boot\/spring-boot\/3.5.6\/a02f486ab700dad1f81e54cb37651d92a3f9d700\/spring-boot-3.5.6.jar=/gradle_used_by_scope=/main,test=/&amp;lt;org.springframework.boot(SpringApplication.class[SpringApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=sbb/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mysite.sbb{SbbApplication.java[SbbApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="100"/>
+			<item key="DIALOG_Y_ORIGIN" value="0"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+</section>

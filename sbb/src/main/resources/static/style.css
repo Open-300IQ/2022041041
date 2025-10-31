@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 textarea{
 	width:100%;
 }
 
 imput[type=submit]{
 	margin-top:10px;
+=======
+textarea{
+	width:100%;
+}
+
+imput[type=submit]{
+	margin-top:10px;
+>>>>>>> d33bc38e305935db62527ada7b813d773719fe6c
 }
